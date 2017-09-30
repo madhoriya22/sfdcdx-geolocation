@@ -1,14 +1,3 @@
-# SFDX  App
+sfdcdx-geolocation
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+A sample repository for salesforce dx trail.
